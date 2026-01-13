@@ -6,7 +6,7 @@ I´m new here, so i working on projects to upload for you all can see.
 
 ---
 
-##Tools and Tech
+## Tools and Tech
 My main tech is Python, but also i work with:
 - HTML
 - CSS
@@ -17,7 +17,7 @@ My main tech is Python, but also i work with:
 
 ---
 
-##A litle about me
+## A litle about me
 - 🐈🐕 I have two cats and a dog 
 - 🖥️ Into anime and games 
 - 💼 I like building things that are useful and easy to understand 
