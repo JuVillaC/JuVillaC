@@ -15,6 +15,9 @@ My main tech is Python, but also i work with:
 - Bootstrap
 - JQuery
 
+Languages:
+- English
+- Spanish (Native)
 ---
 
 ## A litle about me
