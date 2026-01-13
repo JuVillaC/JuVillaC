@@ -4,8 +4,6 @@ I´m studying Engineering on Telecomunications and Cibersecurity.
 Besides i currently learning web and app develop full stack.  
 I´m new here, so i working on projects to upload for you all can see.
 
----
-
 ## Tools and Tech
 My main tech is Python, but also i work with:
 - HTML
@@ -18,7 +16,6 @@ My main tech is Python, but also i work with:
 Languages:
 - English
 - Spanish (Native)
----
 
 ## A litle about me
 - 🐈🐕 I have two cats and a dog 
