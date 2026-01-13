@@ -1,7 +1,7 @@
 ## Hey there 👋
 I´m Juan, a student of T.I. based in Chile.
-I´m studying Engineering on Telecomunications and Cibersecurity. 
-Besides i currently learning web and app develop full stack.
+I´m studying Engineering on Telecomunications and Cibersecurity.  
+Besides i currently learning web and app develop full stack.  
 I´m new here, so i working on projects to upload for you all can see.
 
 ---
@@ -18,7 +18,9 @@ My main tech is Python, but also i work with:
 ---
 
 ##A litle about me
-
+- I have two cats and a dog 🐈🐕
+- Into anime and games
+- I like building things that are useful and easy to understand
 <!--
 **JuVillaC/JuVillaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
