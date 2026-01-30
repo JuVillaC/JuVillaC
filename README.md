@@ -12,6 +12,8 @@ My main tech is Python, but also i work with:
 - Java
 - Bootstrap
 - JQuery
+- SQL
+- Django
 
 Languages:
 - English (Intermediate)
