@@ -14,12 +14,12 @@ My main tech is Python, but also i work with:
 - JQuery
 
 Languages:
-- English
+- English (Intermediate)
 - Spanish (Native)
 
 ## A litle about me
 - 🐈🐕 I have two cats and a dog 
-- 🖥️ Into anime and games 
+- 🖥️ Into anime, games and MMA
 - 💼 I like building things that are useful and easy to understand 
 <!--
 **JuVillaC/JuVillaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
